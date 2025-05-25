@@ -1,0 +1,67 @@
+{
+  "hash": "353b5693",
+  "configHash": "6930f312",
+  "lockfileHash": "e96429f0",
+  "browserHash": "626f4097",
+  "optimized": {
+    "@splinetool/react-spline": {
+      "src": "../../node_modules/@splinetool/react-spline/dist/react-spline.js",
+      "file": "@splinetool_react-spline.js",
+      "fileHash": "23e52459",
+      "needsInterop": false
+    },
+    "aos": {
+      "src": "../../node_modules/aos/dist/aos.esm.js",
+      "file": "aos.js",
+      "fileHash": "2eb2abbd",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "0f145f81",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1e4c9cb1",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "howler-HFV3EF3T": {
+      "file": "howler-HFV3EF3T.js"
+    },
+    "opentype-XEKB4IUA": {
+      "file": "opentype-XEKB4IUA.js"
+    },
+    "ui-UV5TZ56R": {
+      "file": "ui-UV5TZ56R.js"
+    },
+    "gaussian-splat-compression-4PRX6JKL": {
+      "file": "gaussian-splat-compression-4PRX6JKL.js"
+    },
+    "chunk-45R4IVA7": {
+      "file": "chunk-45R4IVA7.js"
+    },
+    "chunk-AS35N6C4": {
+      "file": "chunk-AS35N6C4.js"
+    },
+    "navmesh-CNEUFHIA": {
+      "file": "navmesh-CNEUFHIA.js"
+    },
+    "physics-2QRRPOQI": {
+      "file": "physics-2QRRPOQI.js"
+    },
+    "process-NRNCYPVY": {
+      "file": "process-NRNCYPVY.js"
+    },
+    "boolean-E3RQSORT": {
+      "file": "boolean-E3RQSORT.js"
+    },
+    "chunk-7D4SUZUM": {
+      "file": "chunk-7D4SUZUM.js"
+    }
+  }
+}
